@@ -1,7 +1,5 @@
-﻿Id;Nachname;Vorname;Anrede;Email
+﻿Id;Nachname;Vorname;Anrede;omam@jgj.com
 1;Omar;Taky;Herr;Omar.taky@edu.bib.de
 2;Jan;Verstapen;divers;jan.verstappen@edu.bib.de
-3;Julia;Müller;Frau;julia.müller@edu.bib.de
-;admin2;Verstappen;Herr;max.verstapen@gmail.com
-;admin2;Verstappen;Herr;max.verstapen@gmail.com
+3;Julia;Müller;Frau;julia.muller@edu.bib.de
 4;TestName;Omar;Herr;max.verstapen@gmail.com
